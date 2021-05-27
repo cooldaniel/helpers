@@ -14,9 +14,9 @@ class SearchHelper
         \D::yiisql($dataProvider->query);
 
         return [
-            'pages'=>get_page_info($dataProvider->pagination),
+            'pages'=>self::get_page_info($dataProvider->pagination),
             'keys'=>$keys,
-            'data'=>model_to_array($dataProvider->getModels()),
+            'data'=>self::model_to_array($dataProvider->getModels()),
         ];
     }
 
