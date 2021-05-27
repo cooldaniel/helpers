@@ -1,0 +1,21 @@
+{
+    "name": "cooldaniel/helpers",
+    "description": "Some helpers for php project.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cooldaniel",
+            "email": "295313207@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "cooldaniel\\helpers\\": "src"
+        }
+    }
+}
