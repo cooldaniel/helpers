@@ -1,1 +1,1 @@
-# helpers
+Some helpers for php project.
