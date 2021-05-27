@@ -1,6 +1,6 @@
 <?php
 
-namespace cooldaniel\D\yii2;
+namespace cooldaniel\helpers\yii2;
 
 class SearchHelper
 {

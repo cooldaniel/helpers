@@ -1,6 +1,6 @@
 <?php
 
-namespace cooldaniel\D\common;
+namespace cooldaniel\helpers\common;
 
 class TimeHelper
 {

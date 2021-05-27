@@ -1,8 +1,8 @@
 <?php
 
-namespace cooldaniel\D\yii2;
+namespace cooldaniel\helpers\yii2;
 
-use cooldaniel\D\common\TimeHelper;
+use cooldaniel\helpers\common\TimeHelper;
 
 class ResponseHelper
 {
